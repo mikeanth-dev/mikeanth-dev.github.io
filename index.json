@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Mircea-Pavel Anton",
+    "label": "<Student/>",
+    "image": "picture.jpeg",
+    "email": "mircea.anton99@yahoo.com",
+    "phone": "+40756924762",
+    "summary": "A computer science student from Bucharest, passionate about all things tech related.\nWhat started with \"computers are interesting\", ended up with building servers for my homelab, tinkering with Raspberry Pi clusters, deploying applications on VMs and Docker Containers and playing the sysadmin in my personal \"datacenter\".",
+    "location": {
+      "address": "Strada Minzului 53",
+      "city": "Bucharest",
+      "countryCode": "RO",
+      "region": "Romania"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mikeanth-dev",
+        "url": "https://github.com/mikeanth-dev"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Automatic Control and Computer Science",
+      "url": "https://acs.pub.ro/en/",
+      "area": "Systems Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "Sep 2018",
+      "endDate": "Jun 2022",
+      "courses": [
+        "C Fundamentals",
+        "Data Structures and Algorithms (C++)",
+        "OOP Programming in C++",
+        "Control Systems Theory",
+        "SQL Introduction",
+        "Java Fundamentals",
+        "etc."
+      ]
+    },
+    {
+      "institution": "National College Sfantul Sava",
+      "url": "https://licsfsava.ro/site/",
+      "studyType": "Baccalaureate Diploma",
+      "startDate": "Sep 2014",
+      "endDate": "May 2018"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Undergraduate Teaching Assistant",
+      "position": "Teacher Assistant",
+      "startDate": "2020-10-05",
+      "endDate": "2021-06-25",
+      "summary": "Lab assistant for Signals and Systems (1st semester) and Theory of Control Systems (2nd semester) during my 3rd year of college."
+    },
+    {
+      "organization": "Undergraduate Teaching Assistant",
+      "position": "Teacher Assistant",
+      "startDate": "2020-02-17",
+      "endDate": "2020-06-12",
+      "summary": "Lab assistand for Data Structures and Algorithms, during the 1st semester of the 2nd year."
+    }
+  ],
+  "awards": [
+    {
+      "title": "E.T.C. Hackathon",
+      "date": "Nov 2019",
+      "awarder": "Jane Street",
+      "summary": "2nd place winner"
+    }
+  ],
+  "skills": [
+    {
+      "name": "General Purpose Languages",
+      "level": "Intermediat-Advanced",
+      "keywords":[
+        "C",
+        "C++",
+        "Dart",
+        "Java",
+        "Python",
+        "C#",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Basic Dev Tools",
+      "level": "Advanced",
+      "keywords": [
+        "Visual Studio (Code)",
+        "Linux",
+        "Bash",
+        "Git"
+      ]
+    },
+    {
+      "name": "Cross-Platform App Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Automation Tools",
+      "level": "Beginner",
+      "keywords":[
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "level": "Beginner",
+      "keywords": [
+        "Docker",
+        "LXC",
+        "Proxmox",
+        "KVM",
+        "ESXI"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Shwokl",
+      "description": "A full-stack application, built in Dart.",
+      "highlights": [
+        "RESTful API Server built in DART",
+        "Database Server based on MySQL (MariaDB)",
+        "Web Client built with Flutter",
+        "Implemented a Redis caching server",
+        "Proxy server based on NginX"
+      ],
+      "keywords": [
+        "Dart", "Flutter", "SQL", "Fullstack"
+      ],
+      "url": "https://github.com/Shwokl",
+      "type": "web application"
+    },
+    {
+      "name": "SIMP",
+      "description": "A Simple Image Manipulation Program, written as a university assignment for the Java Fundamentals course.",
+      "highlights": [
+        "Custom 24bit BMP parser",
+        "Producer-Consumer Design Pattern",
+        "Digital Image Processing"
+      ],
+      "keywords": [
+        "Java"
+      ],
+      "url": "https://github.com/mikeanth-dev/Simp",
+      "type": "console application"
+    },
+    {
+      "name": "MidiCommands",
+      "description": "A command-line application that turns any MiDi device into a macro keyboard.",
+      "highlights": [],
+      "keywords": [
+        "C++", "SQLite"
+      ],
+      "url": "https://github.com/mikeanth-dev/MidiCommands",
+      "type": "console application"
+    },
+    {
+      "name": "PyDOS",
+      "description": "Python Data-Over-Sound | A python script that can encode bits of data into sound, and then decode them back.",
+      "highlights": [],
+      "keywords": [
+        "Python"
+      ],
+      "url": "https://github.com/mikeanth-dev/pydos",
+      "type": "console application"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Listening",
+        "Playing the drums"
+      ]
+    },
+    { 
+      "name": "Sports", 
+      "keywords": [
+        "Weightlifting",
+        "Kayaking"
+      ]
+    }
+  ],
+  "meta": {
+    "theme": "modern"
+  }
+}
