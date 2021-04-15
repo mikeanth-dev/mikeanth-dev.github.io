@@ -152,13 +152,13 @@
       "type": "console application"
     },
     {
-      "name": "MidiCommands",
+      "name": "midicmd",
       "description": "A command-line application that turns any MiDi device into a macro keyboard.",
       "highlights": [],
       "keywords": [
         "C++", "SQLite"
       ],
-      "url": "https://github.com/mikeanth-dev/MidiCommands",
+      "url": "https://github.com/mikeanth-dev/midicmd",
       "type": "console application"
     },
     {
